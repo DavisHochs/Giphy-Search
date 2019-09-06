@@ -1,4 +1,4 @@
-const buttonChoices = ["Dogs", "Cats", "Tacos", "Something", "Texas", "Hot Girls", "Boobs"];
+const buttonChoices = ["Dogs", "Cats", "Tacos", "Something", "Texas", "Hot", "Cute", "Water"];
 
 function showButtons() {
     $("#buttons").empty();
